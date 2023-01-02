@@ -1,0 +1,1 @@
+Program di atas akan menampilkan string "Nama saya adalah John Doe" ke layar. Semoga membantu!
